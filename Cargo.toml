@@ -7,6 +7,7 @@ description = "CLI for my workspace."
 homepage = "https://github.com/takimoysha/taki-cli"
 repository = "https://github.com/takimoysha/taki-cli"
 readme = "README.md"
+documentation = "https://docs.rs/taki-cli"
 
 [dependencies]
 anyhow = "1.0.79"
