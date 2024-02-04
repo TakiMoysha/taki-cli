@@ -2,7 +2,7 @@
 name = "taki-cli"
 version = "0.1.0"
 edition = "2021"
-license = "LICENSE"
+license = "MIT"
 description = "CLI for my workspace."
 homepage = "https://github.com/takimoysha/taki-cli"
 repository = "https://github.com/takimoysha/taki"
